@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nj1787 (Neeraj Jain)
-- 👀 I’m interested in Python, Java, C++ based repositories.
-- 🌱 I’m currently learning Data Structures and Algorithms.
-- 💞️ I’m looking to collaborate on repositories based on Python, Java and C++.
+- 👀 I’m interested in Python, Java, Javascript based repositories.
+- 🌱 I’m currently learning Back-End Development (NodeJS).
+- 💞️ I’m looking to collaborate on repositories based on Python, Java and Javascript.
 - 📫 LinkedIn https://www.linkedin.com/in/neeraj-jain-054937119/ Facebook https://www.facebook.com/neeraj.jain.129/ Twitter https://twitter.com/95_jain27
 
 <!---
