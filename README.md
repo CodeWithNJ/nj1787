@@ -1,9 +1,13 @@
-- 👋 Hi, I’m @nj1787 (Neeraj Jain)
-- 👀 I’m interested in Python and Javascript based repositories.
-- 💞️ I’m looking to collaborate on repositories based on Python and Javascript.
-- 📫 LinkedIn https://www.linkedin.com/in/neeraj-jain-054937119/ Facebook https://www.facebook.com/neeraj.jain.129/ Twitter https://twitter.com/95_jain27
+👋 Hi there! I'm a Software Engineer with 5 years of experience specializing in Full Stack Web Development. I enjoy crafting scalable, efficient, and user-friendly applications using modern technologies.
 
-<!---
-nj1787/nj1787 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌟 What I bring to the table:
+
+Proficiency in both frontend and backend development.
+Expertise in building seamless user interfaces and robust server-side architectures.
+A passion for clean, maintainable code and continuous learning.
+🔧 Tech Stack Highlights:
+
+Frontend: HTML, CSS, JavaScript, React, and more.
+Backend: Node.js, Express, Prisma, NestJS.
+Database: MySQL, PostgreSQL.
+🚀 I'm always open to exploring new tools and collaborating on exciting projects. Let’s create something amazing together!
